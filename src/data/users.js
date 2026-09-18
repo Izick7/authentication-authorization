@@ -18,7 +18,7 @@ const users = [
         name: "Jenni",
         email: "jenni@example.com",
         password: "$2b$10$8lzElJXrw/e.P2kApjvxweXVyWja3lm7sdyJZ2VhUe0Prcf9GjwK.",
-        role: "user"
+        role: "admin"
     },
 ]
 
